@@ -1,34 +1,45 @@
 # AI-Powered Job Search & CV Automation Platform
 
-An end-to-end workflow automation platform built using n8n to automate job discovery, ATS analysis, CV optimization, cover letter generation and application tracking.
+## Overview
+An automation platform built using n8n to streamline job discovery, ATS analysis, CV optimization, cover letter generation, and application tracking.
 
-## Features
+## Problem Statement
+Applying for jobs manually is time-consuming and repetitive. This project automates key stages of the job application lifecycle.
 
-- Automated job search using APIs
-- ATS compatibility analysis
+## Key Features
+- Automated job discovery
+- ATS keyword analysis
 - AI-powered CV tailoring
 - Cover letter generation
-- Job deduplication
 - Application tracking
-- Google Sheets integration
 - Workflow orchestration
-- JSON data transformation
+- API integrations
+
+## Architecture
+Job Search API
+↓
+Job Processing
+↓
+ATS Analysis
+↓
+CV Tailoring
+↓
+Cover Letter Generation
+↓
+Application Tracking
 
 ## Technologies
-
 - n8n
 - REST APIs
 - JSON
 - Google Sheets
+- AI Services
 - Workflow Automation
-- AI Integration
 
 ## Skills Demonstrated
-
 - Workflow Automation
-- Business Process Automation
 - API Integration
-- Data Integration
-- Process Optimization
-- Technical Documentation
+- Process Automation
+- Data Transformation
+- AI Automation
 - Solution Design
