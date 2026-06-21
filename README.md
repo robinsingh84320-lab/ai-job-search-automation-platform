@@ -91,3 +91,17 @@ Application Tracking
 ## Outcome
 
 Designed and implemented an AI-powered recruitment automation workflow that automates job discovery, ATS scoring, CV tailoring, cover letter generation, and application tracking through integrated automation pipelines.
+
+
+## Business Value
+
+This solution automates repetitive recruitment activities, reduces manual effort, improves ATS alignment, and provides centralized application tracking through workflow automation and AI-assisted document generation.
+
+
+## Future Enhancements
+
+- LinkedIn integration
+- Automated application submission
+- Interview tracking dashboard
+- Power BI reporting
+- Microsoft Graph integration
