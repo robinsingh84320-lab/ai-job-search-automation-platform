@@ -40,6 +40,42 @@ Application Tracking
 - Google Sheets
 - AI Services
 - Workflow Automation
+## Workflow Setup
+
+### Prerequisites
+
+- n8n
+- Google Sheets account
+- Google Drive account
+- OpenRouter/OpenAI API access
+- Adzuna API account
+
+### Setup Steps
+
+1. Import the workflow JSON into n8n.
+2. Create and configure the required credentials:
+   - Google Sheets
+   - Google Drive
+   - OpenRouter/OpenAI
+   - Adzuna API
+3. Replace placeholder values:
+   - YOUR_APP_ID
+   - YOUR_APP_KEY
+   - YOUR_APIFY_TOKEN
+   - YOUR_GOOGLE_DRIVE_FOLDER_ID
+4. Configure the target Google Sheets document.
+5. Run the workflow manually or enable scheduled execution.
+
+### Workflow Process
+
+1. Search jobs using external job APIs.
+2. Filter and process job listings.
+3. Perform ATS keyword analysis.
+4. Generate tailored CV content.
+5. Generate cover letters.
+6. Save results to Google Sheets.
+7. Track application status automatically.
+
 
 ## Skills Demonstrated
 
